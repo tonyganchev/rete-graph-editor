@@ -22,8 +22,9 @@ import { zoomAt } from "rete-area-plugin";
         height: 100%;
       }
       .socket.number {
-        background: #96b38a;
+        /* background: #96b38a; */
       }
+
     `
   ]
 })

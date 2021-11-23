@@ -1,5 +1,5 @@
 {
-  "name": "retejs-angular-render",
+  "name": "rete-angular-render",
   "version": "0.0.0",
   "license": "MIT",
   "scripts": {
@@ -33,7 +33,6 @@
     "rete-connection-plugin": "^0.8.3",
     "rete-context-menu-plugin": "^0.3.4",
     "rete-readonly-plugin": "^0.3.0",
-    "rete-vue-render-plugin": "^0.3.3",
     "rxjs": "^6.3.3",
     "tslib": "^1.9.0",
     "vue": "^2.6.5",
