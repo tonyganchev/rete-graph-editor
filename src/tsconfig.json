@@ -1,0 +1,27 @@
+{
+   "compilerOptions":    {
+       "target": "es2015",
+       "declaration": true,
+       "module": "ES2015",
+       "moduleResolution": "node",
+       "sourceMap": true,
+       "skipLibCheck": true,
+       "emitDecoratorMetadata": true,
+       "experimentalDecorators": true,
+       "removeComments": false,
+       "lib": [ "es2015", "dom", "es7" ],
+       "noImplicitAny": true,
+       "suppressImplicitAnyIndexErrors": true,
+       "types": [
+           "jasmine",
+           "core-js",
+           "node"
+       ],
+       "baseUrl": ".",
+       "paths": {
+       }
+   },
+   "angularCompilerOptions": {
+       "preserveWhitespaces": true
+   }
+}
